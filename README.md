@@ -1,5 +1,5 @@
 # Olá!🐱‍🏍
-- 🌱 Estou aprendendo o Básico de Front End, como HTML5, CSS3 e JavaScript. Estutando totalmente de forma autodidata!
+- 🌱 Estou aprendendo o Básico de Front End, como HTML5, CSS3 e JavaScript. Estudando totalmente de forma autodidata!
 - 👯 Procurando colaborar em projetos e sempre buscando conhecimento para crescer mais e mais!
 - 🤔 No momento minha grande duvida e acredito que da maioria dos iniciantes assim como eu é qual caminho seguir, porém, no momento estou bastante entusiasmado com React.
 - 💬 Caso tenha alguma duvida sobre meus repositórios, ou qualquer outro tipo de duvida. Pode me chamar. #BoraFazerAmizade!
