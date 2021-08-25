@@ -6,7 +6,7 @@
 - 📫 Entre em contato comigo pelo meu e-mail principal: contato.rafaelgomes@outlook.com ou nas redes sociais!
 - 🍕Um fato curioso sobre mim?! Eu amo pizza! haha
 #
-<div>
+<section>
   <a href="#">
   <img height=200em src='https://github-readme-stats.vercel.app/api?username=rafaelgomesxavier&show_icons=true&theme=dracula'>
   <img height=200em src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgomesxavier&layout=compact&theme=dracula'>
@@ -14,13 +14,13 @@
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
-</div><br>
+</section></br>
 
 #
-<div>
+<section>
 <a href='https://www.facebook.com/yyyRafaelGomes' target='_blank'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'></a>
 <a href='https://www.linkedin.com/in/rafaelgomesxavier' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href='https://github.com/RafaelGomesXavier' target='_blank'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 <a href='https://open.spotify.com/user/12177609036' target='_blank'><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'></a>
 <a href='mailto:contato.rafaelgomes@outlook.com' target='_blank'><img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'></a>
-</div>
+</section>
