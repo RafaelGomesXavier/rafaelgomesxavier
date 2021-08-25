@@ -8,13 +8,18 @@
 #
 <section>
   <a href="#">
-  <img height=200em src='https://github-readme-stats.vercel.app/api?username=rafaelgomesxavier&show_icons=true&theme=dracula'>
-  <img height=200em src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgomesxavier&layout=compact&theme=dracula'>
+  <img height=180em src='https://github-readme-stats.vercel.app/api?username=rafaelgomesxavier&show_icons=true&theme=dracula'>
+  <img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgomesxavier&layout=compact&theme=dracula'>
+  <br>
+  
+  
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
-</section></br>
+</section>
+<p></p>
+  
 
 #
 <section>
