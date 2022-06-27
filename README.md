@@ -18,6 +18,7 @@
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
   <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/react/node-original.svg'>
+  <img height=30em src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
 </section>
 <p></p>
   
